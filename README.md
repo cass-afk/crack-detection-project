@@ -16,5 +16,6 @@ Prediction Output: Model classifies input images as cracked or non-cracked.
 
 ## Dataset
 
-The dataset consists of images of concrete surfaces with and without cracks. It has been preprocessed to enhance model performance. The original dataset is from https://www.kaggle.com/datasets/arnavr10880/concrete-crack-images-for-classification.
+The dataset consists of images of concrete surfaces with and without cracks. It has been preprocessed to enhance model performance. 
+The original dataset is from https://www.kaggle.com/datasets/arnavr10880/concrete-crack-images-for-classification.
 For training, we use preprocessing techniques to detect the cracks on images and then create a scrpit to create bounding boxes and label them as cracks.
